@@ -9,7 +9,7 @@ We can’t give specific instructions for siting the Station, as this depends on
 - the air sensor box needs to breathe
 - the weather station needs to be connected to power and your network via an Ethernet cable
 
-You may not be able to find an ideal location. Perhaps trees block the wind, or the rain gauge is partially sheltered by an overhang.  **Please still install your Weather Station!** You could even use this as a learning opportunity: would it be possible, for example, to take things like reduced rain readings into account automatically? It’s also a great chance to get your students involved in a bit of problem solving and research, and to get other departments in the school involved.
+You may not be able to find an ideal location. Perhaps trees block the wind, or the rain gauge is partially sheltered by an overhang.  **Please still install your Weather Station!** You could even use this as a learning opportunity: would it be possible to take things like reduced rain readings into account automatically? It’s also a great chance to get your students involved in a bit of problem solving and research, and to get other departments in the school involved.
 
 
 ## Stevenson screen
